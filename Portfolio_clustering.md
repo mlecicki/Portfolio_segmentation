@@ -67,7 +67,7 @@ library(tidyverse)
 library(patchwork)
 ```
 
-Data.
+Let’s first read in data for clustering.
 
 ``` r
 data <- read_rds("data/data.rds")
