@@ -252,7 +252,7 @@ hopkins(full_clust_data_norm, n = nrow(full_clust_data_norm)-1)
 ```
 
     ## $H
-    ## [1] 0.03595157
+    ## [1] 0.03493074
 
 We can also perform complementary visual check of clustering tendency
 using Ordered Dissimilarity Matrix (ODM).
